@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Welcome to my page!! <br>I'm Vinay Asangi, Software Developmet Engineer, from Bengaluru Karnataka India.</p>
+<p align="left">Welcome to my page!! <br>I'm Vinay Asangi, Software Development Engineer, from Bengaluru Karnataka India.</p>
 
 ###
 
