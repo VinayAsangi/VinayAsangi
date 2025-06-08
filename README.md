@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Welcome to my page!! <br>I'm Vinay Asangi, Software Development Engineer, from Bengaluru Karnataka India.</p>
+<p align="left">Welcome to my page!! <br>I'm Vinay Asangi, Java Developer(AWS cloud) from Bengaluru Karnataka India.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 B.Tech graduate from PES University, Bengaluru<br>✨ Creating bugs since 2022<br>🔭 I’m currently working as SDE @Harman International<br>⚡ In my free time I play, code, upskill.</p>
+<p align="left">📚 B.Tech graduate from PES University, Bengaluru<br>✨ Creating bugs since 2022<br>🔭 I’m currently working as Junior Sofwtare Engineer @PMC at Vadodara, Gujrat<br>⚡ In my free time I play, code, travel.</p>
 
 ###
 
