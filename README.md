@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Welcome to my page!! <br>I'm Vinay Asangi, Java Developer(AWS cloud) from Bengaluru Karnataka India.</p>
+<p align="left">Welcome to my profile!! <br>I'm Vinay Asangi, Java Developer(AWS cloud) from Bengaluru Karnataka India.</p>
 
 ###
 
