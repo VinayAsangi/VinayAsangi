@@ -48,6 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original-wordmark.svg" height ="40" alt="Bitbucket logo" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker Logo">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-plain.svg" height="40" alt="Postman Logo">
+  <img width="12" />
 </div>
 
 ###
